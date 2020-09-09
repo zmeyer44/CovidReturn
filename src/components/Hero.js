@@ -6,7 +6,7 @@ import SocialLinks from "../constants/socialLinks"
 // ...GatsbyImageSharpFluid
 
 const Hero = () => {
-  return <h2>hero component</h2>
+  return <h2>Hero component</h2>
 }
 
 export default Hero
